@@ -1,0 +1,218 @@
+# Translation of Plugins - Landing Page Builder &#8211; Lead Page &#8211; Optin Page &#8211; Squeeze Page &#8211; WordPress Landing Pages - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Landing Page Builder &#8211; Lead Page &#8211; Optin Page &#8211; Squeeze Page &#8211; WordPress Landing Pages - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-24 10:29:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Landing Page Builder &#8211; Lead Page &#8211; Optin Page &#8211; Squeeze Page &#8211; WordPress Landing Pages - Stable (latest release)\n"
+
+#: admin/classes/admin.php:1309 admin/classes/admin.php:1310
+msgid "Form Submissions"
+msgstr "Envíos de formularios"
+
+#: admin/classes/admin.php:349 admin/classes/admin.php:434
+msgid "Landing Pages By PluginOps"
+msgstr "Landing Pages por PluginOps"
+
+#: admin/views/Dashboard/admin-dashboard.php:58
+msgid "Or Build a Simple Page With your Theme's Header & Footer "
+msgstr "O construye una sencilla página con la cabecera y el pie de página de tu tema"
+
+#: admin/classes/admin.php:1252
+msgid "Unique Visitors"
+msgstr "Visitantes únicos"
+
+#. Plugin Name of the plugin
+msgid "PluginOps Landing Page Builder"
+msgstr "PluginOps Landing Page Builder"
+
+#: admin/views/Dashboard/admin-extensions.php:22
+msgid "Landing Page Builder Premium Features"
+msgstr "Características de Landing Page Builder Premium"
+
+#: admin/views/Dashboard/admin-extensions.php:8
+#: admin/views/Dashboard/admin-extensions.php:15
+msgid "Get All Features"
+msgstr "Obtén todas las características"
+
+#: admin/classes/admin.php:1320
+msgid "Tracking & Analytics"
+msgstr "Seguimiento y analíticas"
+
+#: admin/classes/admin.php:1319
+msgid "Tracking Codes"
+msgstr "Códigos de seguimiento"
+
+#: admin/classes/admin.php:1367
+msgid "Blank Page"
+msgstr "Página en blanco"
+
+#: admin/classes/admin.php:1366
+msgid "Edit Landing Page"
+msgstr "Editar la página de destino"
+
+#: admin/classes/admin.php:1339
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: admin/classes/admin.php:337 admin/classes/admin.php:339
+#: admin/classes/admin.php:422 admin/classes/admin.php:424
+msgid "Landing Pages"
+msgstr "Páginas de destino"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://pluginops.com/page-builder"
+msgstr "https://pluginops.com/page-builder"
+
+#. Description of the plugin
+msgid "A drag and drop free responsive page builder that simplifies building your landing pages & websites."
+msgstr "Un maquetador de páginas adaptable y gratuito de arrastrar y soltar que simplifica la creación de tus páginas de destino y webs."
+
+#: page-builder-add.php:29
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/views/Dashboard/admin-extensions.php:6
+#: admin/views/Dashboard/admin-extensions.php:13
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/views/Dashboard/admin-dashboard.php:77
+msgid "How to fix page not found error."
+msgstr "Cómo corregir la página de error «No encontrado»"
+
+#: admin/views/Dashboard/admin-dashboard.php:76
+msgid "Page not found error - Fix"
+msgstr "Error «Página no encontrada»: Corrección"
+
+#: admin/views/Dashboard/admin-dashboard.php:71
+msgid "PluginOps Page Builder - Getting Started"
+msgstr "Maquetador de páginas de PluginOps: Primeros pasos "
+
+#: admin/views/Dashboard/admin-dashboard.php:70
+msgid "PluginOps Page Builder - Getting Started Usage Guide"
+msgstr "Maquetador de páginas de PluginOps: Guía de uso de inicio"
+
+#: admin/views/Dashboard/admin-dashboard.php:74
+msgid "PluginOps Page Builder - Docs Home"
+msgstr "Maquetador de páginas de PluginOps: Inicio de la documentación"
+
+#: admin/views/Dashboard/admin-dashboard.php:73
+msgid "PluginOps Page Builder - Documentation"
+msgstr "Maquetador de páginas de PluginOps: Documentación"
+
+#: admin/views/Dashboard/admin-dashboard.php:68
+msgid "User Guide"
+msgstr "Guía del usuario"
+
+#: admin/views/Dashboard/admin-dashboard.php:61
+msgid "Add new Page and jump into the page builder by clicking the Switch to Page Builder tab."
+msgstr "Añade una nueva página y salta al maquetador de páginas haciendo clic en la pestaña del maquetador de páginas."
+
+#: admin/views/Dashboard/admin-dashboard.php:60
+msgid "Pages - Add New Page"
+msgstr "Páginas: Añadir una nueva página"
+
+#: admin/views/Dashboard/admin-dashboard.php:54
+msgid "Ready to start creating pages ? Jump into the page builder by clicking the Add new Page button under the Page builder menu."
+msgstr "¿Preparado para comenzar a crear páginas? Salta al maquetador de páginas haciendo clic en el botón «Añadir una nueva página» en el menú «Maquetador de páginas»."
+
+#: admin/views/Dashboard/admin-dashboard.php:53
+msgid "Page Builder - Add New Landing Page"
+msgstr "Maquetador de páginas: Añadir una nueva página de destino"
+
+#: admin/views/Dashboard/admin-dashboard.php:51
+msgid "Getting Started - Build Your First Standalone Landing Page"
+msgstr "Primeros pasos: Construye tu primera página de destino individual"
+
+#: admin/views/Dashboard/admin-dashboard.php:49
+msgid "Thank you for choosing the Page Builder plugin and welcome to the community. Find some useful information below and learn how to create beautiful pages in minutes."
+msgstr "Gracias por elegir el plugin maquetador de páginas y bienvenido a nuestra comunidad. Obtén información útil a continuación y aprende cómo crear bonitas páginas en minutos."
+
+#: admin/views/Dashboard/admin-dashboard.php:48
+msgid "Welcome to Page Builder by PluginOps"
+msgstr "Bienvenido al maquetador de páginas de PluginOps"
+
+#: admin/views/Dashboard/admin-dashboard.php:42
+msgid "Video Tutorials"
+msgstr "Tutoriales en video"
+
+#: admin/views/Dashboard/admin-dashboard.php:41
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: admin/classes/admin.php:1349 admin/classes/admin.php:1358
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/classes/admin.php:1348 admin/classes/admin.php:1357
+msgid "PluginOps Settings"
+msgstr "Ajustes de PluginOps"
+
+#: admin/classes/admin.php:1338
+msgid "Page Builder Extensions"
+msgstr "Extensiones del maquetador de páginas"
+
+#: page-builder-add.php:28 admin/classes/admin.php:1330
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: admin/classes/admin.php:1329 admin/views/Dashboard/admin-dashboard.php:37
+msgid "Page Builder Dashboard"
+msgstr "Escritorio del maquetador de páginas"
+
+#. Author of the plugin
+#: admin/classes/admin.php:1297
+msgid "PluginOps"
+msgstr "PluginOps"
+
+#: admin/classes/admin.php:1253
+msgid "Front Page"
+msgstr "Portada"
+
+#: admin/classes/admin.php:348 admin/classes/admin.php:433
+msgid "Parent Page:"
+msgstr "Página principal:"
+
+#: admin/classes/admin.php:347 admin/classes/admin.php:432
+msgid "No Pages found in Trash"
+msgstr "No se han encontrado páginas en la papelera"
+
+#: admin/classes/admin.php:346 admin/classes/admin.php:431
+msgid "No Pages found"
+msgstr "No se han encontrado páginas"
+
+#: admin/classes/admin.php:345 admin/classes/admin.php:430
+msgid "Search Pages"
+msgstr "Buscar páginas"
+
+#: admin/classes/admin.php:344 admin/classes/admin.php:429
+msgid "View Page"
+msgstr "Ver la página"
+
+#: admin/classes/admin.php:343 admin/classes/admin.php:428
+msgid "New Page"
+msgstr "Nueva página"
+
+#: admin/classes/admin.php:342 admin/classes/admin.php:427
+msgid "Edit Page"
+msgstr "Editar la página"
+
+#: admin/classes/admin.php:341 admin/classes/admin.php:426
+msgid "Add New Page"
+msgstr "Añadir una nueva página"
+
+#: admin/classes/admin.php:340 admin/classes/admin.php:425
+msgctxt "page-builder-add"
+msgid "Add New Page"
+msgstr "Añadir una nueva página"
+
+#: admin/classes/admin.php:338 admin/classes/admin.php:423
+msgid "Landing Page"
+msgstr "Página de destino"
