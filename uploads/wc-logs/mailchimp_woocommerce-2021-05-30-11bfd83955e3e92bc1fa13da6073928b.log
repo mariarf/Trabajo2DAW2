@@ -1,0 +1,227 @@
+2021-05-30T13:57:27+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 60b360fac4635
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d0d699816e
+            [name] => Gran Canaria
+            [domain] => http://localhost/wordpress
+            [email_address] => juanmaruizf@gmail.com
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => es_ES
+            [timezone] => +00:00
+            [phone] => 640848374
+            [address] => Array
+                (
+                    [address1] => Calle Rodríguez Castrillo, 6
+                    [city] => Becerril de Guía
+                    [province] => Canarias
+                    [postal_code] => 35450
+                    [country] => ES
+                    [country_code] => ES
+                    [phone] => 640848374
+                    [company] => Gran Canaria
+                )
+
+        )
+
+)
+
+2021-05-30T13:57:32+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 60b360fac4635
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d0d699816e
+            [name] => Gran Canaria
+            [domain] => http://localhost/wordpress
+            [email_address] => juanmaruizf@gmail.com
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => es_ES
+            [timezone] => +00:00
+            [phone] => 640848374
+            [address] => Array
+                (
+                    [address1] => Calle Rodríguez Castrillo, 6
+                    [city] => Becerril de Guía
+                    [province] => Canarias
+                    [postal_code] => 35450
+                    [country] => ES
+                    [country_code] => ES
+                    [phone] => 640848374
+                    [company] => Gran Canaria
+                )
+
+        )
+
+)
+
+2021-05-30T13:57:36+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 60b360fac4635
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d0d699816e
+            [name] => Gran Canaria
+            [domain] => http://localhost/wordpress
+            [email_address] => juanmaruizf@gmail.com
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => es_ES
+            [timezone] => +00:00
+            [phone] => 640848374
+            [address] => Array
+                (
+                    [address1] => Calle Rodríguez Castrillo, 6
+                    [city] => Becerril de Guía
+                    [province] => Canarias
+                    [postal_code] => 35450
+                    [country] => ES
+                    [country_code] => ES
+                    [phone] => 640848374
+                    [company] => Gran Canaria
+                )
+
+        )
+
+)
+
+2021-05-30T13:57:37+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 60b360fac4635
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d0d699816e
+            [name] => Gran Canaria
+            [domain] => http://localhost/wordpress
+            [email_address] => juanmaruizf@gmail.com
+            [currency_code] => EUR
+            [money_format] => €
+            [primary_locale] => es_ES
+            [timezone] => +00:00
+            [phone] => 640848374
+            [address] => Array
+                (
+                    [address1] => Calle Rodríguez Castrillo, 6
+                    [city] => Becerril de Guía
+                    [province] => Canarias
+                    [postal_code] => 35450
+                    [country] => ES
+                    [country_code] => ES
+                    [phone] => 640848374
+                    [company] => Gran Canaria
+                )
+
+        )
+
+)
+
+2021-05-30T13:57:38+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Sun, May 30, 2021 1:57 PM
+2021-05-30T13:57:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-05-30T13:58:31+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-05-30T13:58:31+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-05-30T13:58:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-05-30T13:58:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-05-30T13:59:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 2182
+2021-05-30T13:59:09+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-05-30T13:59:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #2182
+2021-05-30T13:59:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-05-30T13:59:19+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-05-30T13:59:31+00:00 NOTICE sync.completed :: Finished Sync :: Sun, May 30, 2021 1:59 PM (total time: 00:01:53)
+2021-05-30T14:09:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2258
+2021-05-30T14:09:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2182
+2021-05-30T14:10:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #2258
+2021-05-30T14:10:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2258
+2021-05-30T14:10:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2182
+2021-05-30T14:11:08+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2258
+2021-05-30T14:11:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2258
+2021-05-30T14:12:11+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2258
+2021-05-30T14:12:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2182
+2021-05-30T14:13:32+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2182
+2021-05-30T16:17:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2350
+2021-05-30T16:18:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #2350
+2021-05-30T16:20:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2354
+2021-05-30T16:20:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #2354
+2021-05-30T16:21:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2356
+2021-05-30T16:21:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #2356
+2021-05-30T16:24:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2358
+2021-05-30T16:24:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #2358
+2021-05-30T16:25:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2356
+2021-05-30T16:25:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2356
+2021-05-30T16:27:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2361
+2021-05-30T16:28:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #2361
+2021-05-30T16:29:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2363
+2021-05-30T16:29:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #2363
+2021-05-30T16:30:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2381
+2021-05-30T16:31:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #2381
+2021-05-30T16:32:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2383
+2021-05-30T16:32:43+00:00 NOTICE product_submit.success :: addStoreProduct :: #2383
+2021-05-30T16:34:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2388
+2021-05-30T16:35:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #2388
+2021-05-30T16:36:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2394
+2021-05-30T16:36:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #2394
+2021-05-30T16:37:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2400
+2021-05-30T16:38:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #2400
+2021-05-30T16:38:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2406
+2021-05-30T16:39:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #2406
+2021-05-30T16:39:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2415
+2021-05-30T16:41:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #2415
+2021-05-30T17:16:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2258
+2021-05-30T17:16:26+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2258
+2021-05-30T18:52:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 2
+2021-05-30T18:52:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:53:22+00:00 NOTICE member.sync :: 
+2021-05-30T18:53:24+00:00 NOTICE abandoned_cart.success :: email: mariadelosangeles1478@gmail.com :: checkout_url: http://localhost/wordpress/finalizar-compra/?mc_cart_id=c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:53:24+00:00 ERROR cart.member.sync.error :: 
+2021-05-30T18:53:43+00:00 NOTICE ac.cart_swap :: Deleted cart [mariadelosangeles1478@gmail.com] :: ID [c2caf51feced6a679627413b59e6cd99]
+2021-05-30T18:53:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:53:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 0c4519e0b3943fe5dad046aee077f58b
+2021-05-30T18:53:46+00:00 NOTICE abandoned_cart.success :: email: mariadelosangeles1478@gmail.com :: checkout_url: http://localhost/wordpress/finalizar-compra/?mc_cart_id=c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:53:47+00:00 ERROR cart.member.sync.error :: 
+2021-05-30T18:53:48+00:00 NOTICE abandoned_cart.success :: email: mariarf1478@gmail.com :: checkout_url: http://localhost/wordpress/finalizar-compra/?mc_cart_id=0c4519e0b3943fe5dad046aee077f58b
+2021-05-30T18:53:49+00:00 ERROR cart.member.sync.error :: 
+2021-05-30T18:53:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 2
+2021-05-30T18:53:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2494
+2021-05-30T18:53:54+00:00 ERROR member.sync :: mariadelosangeles1478@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-05-30T18:53:57+00:00 NOTICE debug :: Order ID 2494 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/wordpress/wordpress/wp-admin/about.php
+        )
+
+)
+
+2021-05-30T18:54:38+00:00 NOTICE ac.cart_swap :: Deleted cart [mariarf1478@gmail.com] :: ID [0c4519e0b3943fe5dad046aee077f58b]
+2021-05-30T18:54:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:54:57+00:00 NOTICE abandoned_cart.success :: email: mariadelosangeles1478@gmail.com :: checkout_url: http://localhost/wordpress/finalizar-compra/?mc_cart_id=c2caf51feced6a679627413b59e6cd99
+2021-05-30T18:54:57+00:00 ERROR cart.member.sync.error :: 
+2021-05-30T18:55:34+00:00 ERROR order_submit.error :: addStoreOrder :: #2494 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2494/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-05-30T18:56:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 2
+2021-05-30T18:56:29+00:00 NOTICE debug :: Order ID 2494 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-05-30T18:56:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2494
+2021-05-30T18:56:34+00:00 ERROR member.sync :: mariadelosangeles1478@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-05-30T18:58:30+00:00 ERROR order_submit.error :: addStoreOrder :: #2494 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2494/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-05-30T18:59:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2394
+2021-05-30T18:59:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2388
+2021-05-30T18:59:50+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2394
+2021-05-30T18:59:51+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2388
+2021-05-30T19:01:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2350
+2021-05-30T19:01:25+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2350
