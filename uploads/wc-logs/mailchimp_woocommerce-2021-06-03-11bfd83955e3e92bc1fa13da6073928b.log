@@ -1,0 +1,75 @@
+2021-06-03T11:54:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2415
+2021-06-03T11:55:36+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2415
+2021-06-03T12:07:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2415
+2021-06-03T12:07:40+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2415
+2021-06-03T12:15:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2415
+2021-06-03T12:16:37+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2415
+2021-06-03T12:24:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2381
+2021-06-03T12:25:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2361
+2021-06-03T12:26:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2354
+2021-06-03T12:26:30+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2381
+2021-06-03T12:26:30+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2361
+2021-06-03T12:27:43+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2354
+2021-06-03T12:28:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 2350
+2021-06-03T12:28:48+00:00 NOTICE product_submit.success :: updateStoreProduct :: #2350
+2021-06-03T12:30:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2516
+2021-06-03T12:30:51+00:00 NOTICE debug :: Order ID 2516 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/wordpress/wordpress/wp-admin/admin-ajax.php?action=as_async_request_queue_runner&nonce=b56196ea24
+        )
+
+)
+
+2021-06-03T12:32:56+00:00 ERROR order_submit.error :: addStoreOrder :: #2516 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2516/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:33:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2516
+2021-06-03T12:35:58+00:00 ERROR order_submit.error :: addStoreOrder :: #2516 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2516/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:40:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:40:52+00:00 NOTICE member.sync :: 
+2021-06-03T12:41:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:41:52+00:00 ERROR member.sync :: juanmaruizf@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:42:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:42:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2517
+2021-06-03T12:42:33+00:00 NOTICE debug :: Order ID 2517 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/wordpress/wordpress/finalizar-compra/order-received/2516/?key=wc_order_QUJj6FCmlTuB1
+        )
+
+)
+
+2021-06-03T12:43:00+00:00 ERROR member.sync :: juanmaruizf@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:44:02+00:00 ERROR order_submit.error :: addStoreOrder :: #2517 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2517/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:46:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:47:55+00:00 ERROR member.sync :: juanmaruizf@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:50:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:50:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2518
+2021-06-03T12:50:36+00:00 NOTICE debug :: Order ID 2518 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => http://localhost/wordpress/wordpress/finalizar-compra/order-received/2517/?key=wc_order_Lnx9tlr6UGrXK
+        )
+
+)
+
+2021-06-03T12:51:15+00:00 ERROR member.sync :: juanmaruizf@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:51:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2021-06-03T12:51:44+00:00 NOTICE debug :: Order ID 2517 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-06-03T12:51:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 2517
+2021-06-03T12:51:48+00:00 ERROR member.sync :: juanmaruizf@gmail.com :: Error Code 0 ::  on 1894 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:52:18+00:00 ERROR order_submit.error :: addStoreOrder :: #2518 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2518/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2021-06-03T12:53:21+00:00 ERROR order_submit.error :: addStoreOrder :: #2517 :: Error Code 400 :: <p>order_url: That is not a valid URL: http://localhost/wordpress/mi-cuenta/view-order/2517/</p> on 1886 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
