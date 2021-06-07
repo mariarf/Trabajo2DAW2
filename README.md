@@ -1,7 +1,9 @@
 # Trabajo 2 de DAW2
 
 Indicaciones para desplegar la web en local.
-Para desplegar la web en local es necesario que cuentes de una instalación básica de wordpress y que este conectada a la base de datos-
+
+Para desplegar la web en local es necesario que cuentes de una instalación básica de WordPress y que este conectada a la base de datos. Si no sabes como instalar WordPress
+puedes seguir este tutorial [Como instalar WordPress en local](https://miposicionamientoweb.es/como-instalar-wordpress-local/)
 
 Dentro de la carpeta con ruta `C:\xampp\htdocs\wordpress\wp-content` reemplazar el contenido por el del git hub.
 
